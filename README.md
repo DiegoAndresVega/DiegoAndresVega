@@ -25,7 +25,6 @@ Estudiante de **2º de DAM** con foco en **desarrollo backend en Java**, **bases
   <!-- IDEs y herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" alt="VirtualBox" title="VirtualBox" height="48" />
 </p>
 
 ---
