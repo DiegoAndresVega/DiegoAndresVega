@@ -38,13 +38,12 @@ Estudiante de **2º de DAM** con foco en **desarrollo backend en Java**, **bases
 
 ---
 
-## 📌 Proyectos destacados
 
-> *Sustituye estos ejemplos por tus repos reales cuando los publiques.*
+## 🎯 Ahora mismo
 
-- **Gestor de Tareas (Java + MySQL)** — CRUD con JDBC, DAO y patrón MVC básico.  
-- **API de notas (Java)** — Endpoints REST, validación y persistencia simple.  
-- **Mini-tienda (SQL)** — Esquema relacional, procedimientos y consultas analíticas.
+- Profundizando en **colecciones y streams** de Java.
+- Mejorando **modelado de datos** y **transacciones** en SQL/MySQL.
+- Practicando **consultas agregadas** y **subconsultas** para informes.
 
 ---
 
