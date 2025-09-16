@@ -48,13 +48,6 @@ Estudiante de **2º de DAM** con foco en **desarrollo backend en Java**, **bases
 
 ---
 
-## 🎯 Ahora mismo
-
-- Profundizando en **colecciones y streams** de Java.
-- Mejorando **modelado de datos** y **transacciones** en SQL/MySQL.
-- Practicando **consultas agregadas** y **subconsultas** para informes.
-
----
 
 ## 🤝 Colabora conmigo
 
