@@ -47,12 +47,12 @@ Construyo pipelines de producción, agentes autónomos y automatizaciones que re
 
 ## 🚀 Proyectos en producción
 
-### Agent 2 — Pipeline de composición de imagen IA
+### Agent — Pipeline de composición de imagen IA
 `Python` `Claude API` `Pillow` `ColourThief` `PyMuPDF` `PrestaShop`
 
 Pipeline que extrae logos de clientes desde PDFs, detecta la paleta de color dominante con ColourThief y los composita automáticamente sobre fotos de producto. Integrado con PrestaShop y desplegado en producción.
 
-### Agent 1 — Asistente empresarial autónomo
+### Agent — Asistente empresarial autónomo
 `Docker` `VPS` `Navegación web` `Email` `Calendario`
 
 Agente desplegado en VPS con Docker. Capacidades de navegación autónoma, gestión de email y calendario, y ejecución de tareas delegadas. Construido sobre arquitectura MCP-compatible.
