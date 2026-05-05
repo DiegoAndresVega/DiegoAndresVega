@@ -1,63 +1,84 @@
-# 👋 ¡Hola! Soy Diego
+# Diego Vega
 
-Estudiante de **2º de DAM** con foco en **desarrollo backend en Java**, **bases de datos** y fundamentos de **desarrollo web**. Me gusta escribir código claro, bien estructurado y con buenas prácticas desde el principio: control de versiones, documentación y pequeñas baterías de pruebas.
+**Desarrollador Multiplataforma · Automatización · Agentes de IA · Burgos, España**
 
-- 🚀 Buscando aprender y aportar en proyectos donde pueda crecer con **Java** y **SQL**.
-- 🧩 Me motiva convertir requisitos en soluciones simples y mantenibles.
-- 📚 Siempre mejorando: patrones de diseño, consultas eficientes y automatización de tareas de desarrollo.
+Construyo pipelines de producción, agentes autónomos y automatizaciones que resuelven problemas reales. Me muevo entre backend Python, APIs empresariales, VPS y sistemas LLM-augmented con facilidad — aprovecho la IA como multiplicador de capacidad para entregar rápido en stacks que requieren el contexto correcto.
 
 ---
 
-## 🧠 Aptitudes técnicas
+## 🛠️ Stack actual
 
+<!-- Lenguajes y datos -->
 <p align="left">
-  <!-- Lenguajes y datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="40" />
   <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL" title="SQL" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="48" />
   <img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="XML" title="XML" height="28" />
-
   <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="48" />
-
-  <!-- IDEs y herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" />
+  <!-- IA & APIs -->
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" title="Claude API / Anthropic" height="28" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code" height="28" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" title="Pillow" height="28" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" title="pandas" height="28" />
+  <!-- Infra y herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux / VPS" height="40" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" title="Hostinger VPS" height="28" />
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop" title="PrestaShop" height="28" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" title="Odoo" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" alt="VirtualBox" title="VirtualBox" height="40" />
 </p>
 
----
+**IA & Agentes**
+`Claude API` `Claude Code` `MCP (Model Context Protocol)` `Agentes autónomos` `Pipelines LLM` `Generación de imagen IA` `Pillow` `ColourThief` `PyMuPDF`
 
-## 🛠️ Cómo trabajo
-
-- **Código legible y modular**: clases y métodos con una única responsabilidad.
-- **Consultas eficientes**: índices, normalización cuando toca y análisis de query plans.
-- **Documentación mínima viable**: README y comentarios útiles para el siguiente desarrollador (o para mí en 3 meses).
-- **Entornos reproducibles**: uso de máquinas/VMs con **VirtualBox** y proyectos configurados en **Eclipse/VS Code**.
+**Infraestructura & APIs**
+`Docker` `VPS (Hostinger)` `REST APIs` `PrestaShop API` `Odoo` `SSH` `Linux CLI` `pandas`
 
 ---
 
+## 🚀 Proyectos en producción
 
-## 🎯 Ahora mismo
+### Agent 2 — Pipeline de composición de imagen IA
+`Python` `Claude API` `Pillow` `ColourThief` `PyMuPDF` `PrestaShop`
 
-- Profundizando en **colecciones y streams** de Java.
-- Mejorando **modelado de datos** y **transacciones** en SQL/MySQL.
-- Practicando **consultas agregadas** y **subconsultas** para informes.
+Pipeline que extrae logos de clientes desde PDFs, detecta la paleta de color dominante con ColourThief y los composita automáticamente sobre fotos de producto. Integrado con PrestaShop y desplegado en producción.
+
+### Agent 1 — Asistente empresarial autónomo
+`Docker` `VPS` `Navegación web` `Email` `Calendario`
+
+Agente desplegado en VPS con Docker. Capacidades de navegación autónoma, gestión de email y calendario, y ejecución de tareas delegadas. Construido sobre arquitectura MCP-compatible.
+
+### Sync Odoo–PrestaShop
+`Python` `Odoo API` `PrestaShop API` `pandas`
+
+Script de sincronización bidireccional de stock entre ERP y tienda online. Procesamiento de catálogos de más de 100 productos con extracción de IDs y transformación de datos.
 
 ---
 
+## ⚙️ Cómo trabajo
 
-## 🤝 Colabora conmigo
-
-Si ves algo que te interese o quieres dar feedback, ¡me encantará leerte!  
-Puedes abrir un **Issue** o un **Pull Request** en cualquiera de mis repositorios.
+- **AI-augmented development** — Uso LLMs como co-piloto técnico, no como sustituto del criterio propio.
+- **Entrega en producción** — Priorizo que funcione en el entorno real, no solo en local.
+- **Adaptación de stack** — Aprendo lo que necesita el proyecto, sin esperar a tener el curso perfecto.
+- **Documentación útil** — README y comentarios pensados para el siguiente que lo toque (o para mí en tres meses).
 
 ---
-<!--
-Sugerencia opcional: si quieres mostrar estadísticas automáticas,
-reemplaza "TU_USUARIO" por tu usuario de GitHub y descomenta estos bloques.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=default)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](#)
--->
+## 📌 Ahora mismo
+
+- Profundizando en arquitecturas de agentes y **Model Context Protocol (MCP)**
+- Explorando **Claude Code** para automatización de flujos de desarrollo
+- Preparando oposiciones de Administración Pública (TIC)
+
+---
+
+<sub>DAM · Centro Juan de Colonia (CIFP), Burgos · diegoa.vegsil@gmail.com · [linkedin.com/in/diego-andres-vega](https://linkedin.com/in/diego-andres-vega)</sub>
