@@ -24,7 +24,7 @@ Construyo pipelines de producción, agentes autónomos y automatizaciones que re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="40" />
 
-<br><br>
+  <br>
   
   <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL" title="SQL" height="28" />
   <img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="XML" title="XML" height="28" />
