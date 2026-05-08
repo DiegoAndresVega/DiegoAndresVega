@@ -4,7 +4,7 @@
 
 Construyo pipelines de producción, agentes autónomos y automatizaciones que resuelven problemas reales. Me muevo entre backend Python, APIs empresariales, VPS y sistemas LLM-augmented con facilidad — aprovecho la IA como multiplicador de capacidad para entregar rápido en stacks que requieren el contexto correcto.
 
----
+--- 
 
 ## 🛠️ Stack actual
 
