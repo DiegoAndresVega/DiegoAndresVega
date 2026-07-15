@@ -34,6 +34,12 @@ Desarrollada de principio a fin: modelo de datos, API REST, tests, despliegue y 
 
 `Kotlin` `MVVM` `Room` `Firebase` — proyecto final DAM: calcula la tela necesaria en patrones de costura y los comparte en comunidad.
 
+### [Web de evento (Finkafest)](https://github.com/DiegoAndresVega/web_de_cumple) — web interactiva en tiempo real
+
+`React 18` `JavaScript` `Firebase Realtime Database` `Canvas API` `Cloudflare`
+
+Web completa para un evento real, usada por los asistentes: coordinación de coches compartidos y confirmación de asistencia sincronizadas en tiempo real con Firebase, buzón de mensajes, galería de fotos y tres minijuegos propios desarrollados con Canvas API. Desplegada en Cloudflare.
+
 ### RAG 100% local — en desarrollo
 
 `Python` `Ollama` `Qdrant` — retrieval-augmented generation ejecutado íntegramente en local, sin dependencia de APIs externas.
@@ -48,6 +54,8 @@ Desarrollada de principio a fin: modelo de datos, API REST, tests, despliegue y 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" />
@@ -72,9 +80,11 @@ Desarrollada de principio a fin: modelo de datos, API REST, tests, despliegue y 
 
 **Móvil:** Flutter · Android nativo (Kotlin, MVVM, Room, Material Design 3)
 
+**Web:** React · JavaScript · HTML/CSS · Canvas API · Firebase Realtime Database
+
 **IA & agentes:** Claude API · Claude Code · MCP · agentes autónomos · RAG · embeddings (CLIP) · Qdrant · Ollama
 
-**Infraestructura:** Docker · Linux · VPS · Render · Neon · Git
+**Infraestructura:** Docker · Linux · VPS · Render · Neon · Cloudflare · Git
 
 ---
 
