@@ -40,9 +40,6 @@ Desarrollada de principio a fin: modelo de datos, API REST, tests, despliegue y 
 
 Web completa para un evento real, usada por los asistentes: coordinación de coches compartidos y confirmación de asistencia sincronizadas en tiempo real con Firebase, buzón de mensajes, galería de fotos y tres minijuegos propios desarrollados con Canvas API. Desplegada en Cloudflare.
 
-### RAG 100% local — en desarrollo
-
-`Python` `Ollama` `Qdrant` — retrieval-augmented generation ejecutado íntegramente en local, sin dependencia de APIs externas.
 
 ---
 
