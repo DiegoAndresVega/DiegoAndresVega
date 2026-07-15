@@ -34,7 +34,7 @@ Desarrollada de principio a fin: modelo de datos, API REST, tests, despliegue y 
 
 `Kotlin` `MVVM` `Room` `Firebase` — proyecto final DAM: calcula la tela necesaria en patrones de costura y los comparte en comunidad.
 
-### [Web de evento (Finkafest)](https://github.com/DiegoAndresVega/web_de_cumple) — web interactiva en tiempo real
+### [Web de evento (Finkafest)](https://github.com/DiegoAndresVega/finkafest-web) — web interactiva en tiempo real
 
 `React 18` `JavaScript` `Firebase Realtime Database` `Canvas API` `Cloudflare`
 
