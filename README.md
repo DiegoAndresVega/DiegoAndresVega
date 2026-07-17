@@ -48,38 +48,31 @@ Web completa para un evento real, usada por los asistentes: coordinación de coc
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux / VPS" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
   <br><br>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" title="Claude API / Anthropic" height="28" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code" height="28" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1a1a1a?style=for-the-badge" alt="MCP" title="Model Context Protocol" height="28" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" title="Qdrant (base de datos vectorial)" height="28" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" title="Ollama" height="28" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" title="Render (despliegue)" height="28" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" title="Neon (PostgreSQL serverless)" height="28" />
 </p>
 
-**Lenguajes:** Python · Kotlin · Dart · Java · SQL · JavaScript
+**Lenguajes:** Python · Kotlin · Java · SQL · JavaScript
 
-**Backend:** FastAPI · SQLAlchemy 2.0 · REST APIs · JWT · PostgreSQL · MySQL · MongoDB · Firebase · pytest
+**Backend:** FastAPI · PostgreSQL · MySQL · MongoDB · Firebase 
 
 **Móvil:** Flutter · Android nativo (Kotlin, MVVM, Room, Material Design 3)
 
-**Web:** React · JavaScript · HTML/CSS · Canvas API · Firebase Realtime Database
+**Web:** JavaScript · HTML/CSS · Firebase Realtime Database
 
-**IA & agentes:** Claude API · Claude Code · MCP · agentes autónomos · RAG · embeddings (CLIP) · Qdrant · Ollama
+**IA & agentes:** Claude API · Claude Code · agentes autónomos · RAG · Ollama
 
 **Infraestructura:** Docker · Linux · VPS · Render · Neon · Cloudflare · Git
 
