@@ -55,7 +55,6 @@ Web completa para un evento real, usada por los asistentes: coordinación de coc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="40" />
   <br><br>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code" height="28" />
@@ -74,7 +73,7 @@ Web completa para un evento real, usada por los asistentes: coordinación de coc
 
 **IA & agentes:** Claude API · Claude Code · agentes autónomos · RAG · Ollama
 
-**Infraestructura:** Docker · Linux · VPS · Render · Neon · Cloudflare · Git
+**Infraestructura:** VPS · Render · Neon · Cloudflare · Git
 
 ---
 
